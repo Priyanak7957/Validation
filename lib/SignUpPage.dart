@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'Screen1.dart';
-import 'Screen2.dart';
+import 'Statful_page.dart';
+import 'Statless_page.dart';
 
 class SignUpPage extends StatefulWidget {
   SignUpPage({Key key}) : super(key: key);
